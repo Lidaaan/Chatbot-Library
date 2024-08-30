@@ -1,0 +1,103 @@
+[
+    {
+      "Titre": "Les Misérables",
+      "Auteur": "Victor Hugo",
+      "Genre": "Littérature classique",
+      "Annee": 1862,
+      "Etage": 2,
+      "Section": "A3",
+      "Exemplaires": 4,
+      "Statut": "Disponible"
+    },
+    {
+      "Titre": "1984",
+      "Auteur": "George Orwell",
+      "Genre": "Science-fiction",
+      "Annee": 1949,
+      "Etage": 1,
+      "Section": "B2",
+      "Exemplaires": 2,
+      "Statut": "Disponible"
+    },
+    {
+      "Titre": "Le Petit Prince",
+      "Auteur": "Antoine de Saint-Exupéry",
+      "Genre": "Jeunesse",
+      "Annee": 1943,
+      "Etage": 1,
+      "Section": "C1",
+      "Exemplaires": 5,
+      "Statut": "Emprunté"
+    },
+    {
+      "Titre": "Harry Potter à l'école des sorciers",
+      "Auteur": "J.K. Rowling",
+      "Genre": "Fantasy",
+      "Annee": 1997,
+      "Etage": 1,
+      "Section": "C4",
+      "Exemplaires": 3,
+      "Statut": "Disponible"
+    },
+    {
+      "Titre": "Pride and Prejudice",
+      "Auteur": "Jane Austen",
+      "Genre": "Littérature classique",
+      "Annee": 1813,
+      "Etage": 2,
+      "Section": "A1",
+      "Exemplaires": 6,
+      "Statut": "Disponible"
+    },
+    {
+      "Titre": "Moby Dick",
+      "Auteur": "Herman Melville",
+      "Genre": "Littérature classique",
+      "Annee": 1851,
+      "Etage": 2,
+      "Section": "A5",
+      "Exemplaires": 1,
+      "Statut": "Disponible"
+    },
+    {
+      "Titre": "To Kill a Mockingbird",
+      "Auteur": "Harper Lee",
+      "Genre": "Littérature américaine",
+      "Annee": 1960,
+      "Etage": 3,
+      "Section": "B1",
+      "Exemplaires": 2,
+      "Statut": "Disponible"
+    },
+    {
+      "Titre": "Le Comte de Monte-Cristo",
+      "Auteur": "Alexandre Dumas",
+      "Genre": "Littérature classique",
+      "Annee": 1844,
+      "Etage": 2,
+      "Section": "A2",
+      "Exemplaires": 3,
+      "Statut": "Disponible"
+    },
+    {
+      "Titre": "The Great Gatsby",
+      "Auteur": "F. Scott Fitzgerald",
+      "Genre": "Littérature américaine",
+      "Annee": 1925,
+      "Etage": 3,
+      "Section": "B3",
+      "Exemplaires": 4,
+      "Statut": "Disponible"
+    },
+    {
+      "Titre": "War and Peace",
+      "Auteur": "Leo Tolstoy",
+      "Genre": "Littérature russe",
+      "Annee": 1869,
+      "Etage": 2,
+      "Section": "A4",
+      "Exemplaires": 5,
+      "Statut": "Disponible"
+    }
+  ]
+  
